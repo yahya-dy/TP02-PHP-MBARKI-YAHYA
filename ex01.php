@@ -6,10 +6,10 @@
     </head>
     <body>
         <?php
-            echo "Bienvennue dans mon Tp PHP";
-            echo "mon nom : mbarki";
-            echo "mon prenom : yahya";
-            echo "mon groupe : 4";
+            echo "Bienvennue dans mon Tp PHP <br>";
+            echo "mon nom : mbarki <br>";
+            echo "mon prenom : yahya <br>";
+            echo "mon groupe : 4 <br>";
             // commentaire sur une seule ligne 
             /* commentaire
             sur plusieurs lignes */
