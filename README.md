@@ -42,3 +42,7 @@ pour 16 :
                    mention : tres bien
 pour 21 :
     il affiche :   note invalide
+
+## explication de la question 4 de l'exercice 10 :
+les donnes sont apparaisent dans l'url le nom , le prenom et le groupe a cause de la methode get
+avec la methode post rien n'affiche sur l'url contraire de get il cache les information
